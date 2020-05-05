@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have been on a journey of ignorance-busting and both academics and industry experience have proven excellent paths to take. I'm currently active in the financial services sector with exposure to agricultural, banking and regulatory companies within the sector. I'm a tinkerer at heart and well-suited to proof-of-concept work that applies fresh innovation to novel problems. I care about privacy and security and have learnt the skills to be confident in handling client sensitive data. I'm currently challenging myself in product development to learn the grit and diligence that these long-term engagements require. 
+      I have been on a journey of ignorance-busting and both academics and industry experience have proven excellent paths to take. I'm currently active in the financial services sector with exposure to agricultural, banking and regulatory companies within the sector. I'm a tinkerer at heart and well-suited to proof-of-concept work that applies fresh innovation to novel problems. I care about data privacy and security and have learnt the skills to be confident in handling client sensitive data. I'm currently challenging myself in product development to learn the grit and diligence that these long-term, multi-client engagements require. 
 education:
     - degree: MSc in Computer Science
       university: North West University
@@ -66,6 +66,9 @@ education:
           - Data warehousing and business intelligence
         Research: An evaluation of hardware design factors affecting the performance of HPC clusters.
           - Constructed a HPC cluster from the computers in one of the universities computer labs and evaluated how changes in CPU, memory and networking affected the performance in Linpack and ray-tracing benchmarks. 
+   - degree: BSc in Computer Science and Information Systems
+      university: North West University
+      time: 2011 - 2014
 experiences:
     - role: Product Developer
       time: 2019 - Present
@@ -135,12 +138,8 @@ experiences:
 
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
-      - name: .NET MVC
-        level: 70%
-
-      - name: NodeJS 
+       - name: NodeJS 
         level: 90%
 
       - name: AngularJS &amp Angular 2+
@@ -148,6 +147,12 @@ skills:
 
       - name: AWS Cloud
         level: 75%
+
+      - name: .NET MVC
+        level: 70%
+      
+      - name: Apache Kafka &amp; NATS Streaming
+        level: 65% 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
